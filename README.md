@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/po-the-panda-12/Battlebots">
-    <img src="BWP.jpg" alt="Logo" width="100" height="100">
+    <img src="BWP.jpg" alt="Logo" width="700" height="300">
   </a>
 
 <h3 align="center">Battlebots</h3>
